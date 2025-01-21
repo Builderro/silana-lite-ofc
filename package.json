@@ -2,7 +2,7 @@
   "name": "Ilyas Bot",
   "version": "1.0.0",
   "description": "Silana-lite",
-  "main": "index.js",
+  "main": "test.js",
   "type": "module",
   "directories": {
     "lib": "lib",

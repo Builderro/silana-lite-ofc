@@ -122,7 +122,7 @@ const totalFoldersAndFiles = await getTotalFoldersAndFiles(pluginsFolder);
     const freeRamInGB = os.freemem() / (1024 * 1024 * 1024);
 
     console.table({
-"⎔ Dashboard": " System ⎔",
+"⎔ Dashboard": " Lshab Njma 6",
 "Name Bot": packageJsonObj.name,
 "Version": packageJsonObj.version,
 "Description": packageJsonObj.description,
@@ -131,7 +131,7 @@ const totalFoldersAndFiles = await getTotalFoldersAndFiles(pluginsFolder);
 "IP": data,
 "Owner": global.info.nomerown,
 "feature": `${totalFoldersAndFiles.files} feature`,
-"Creator": `NOUREDDINE`
+"Creator": `Ilyas`
 })
     
   } catch (err) {
